@@ -1,7 +1,5 @@
 # Jake Spurlock - As Your Employee
 
-### _Sometimes you have to get it wrong, to get it right._
-
 Samuel Beckett wrote in Westward Ho, _Ever tried. Ever failed. No matter. Try again. Fail again. Fail better._
 
 I embrace failure because the only way to avoid failure is to do nothing, which means never trying, that leads into never succeeding. Failure is just another opportunity to learn and stay humbled.
@@ -11,7 +9,7 @@ I embrace failure because the only way to avoid failure is to do nothing, which 
 - **Life/Work Balance** - Understanding that this a job. I will always give priorirty to family, and while there might be late nights, or work on the weekend, that shouldn't be the expectation.
 - **Honesty** - I will be honest, but I might be guarded at the same time. When you are employee, you are at a power imbalance with a manager, and that needs to be understood.
 - **Encouragement** - I want to see you as a manager grow and be fearless, and I want you empowering me as an employee.
-- **Open Door, Open mind, Open heart** - You can come to me exactly as you are, not even as your best self. We are all trying to get through life the best way we know how, and none of us have a manual.
+- **Open Door, Open Mind, Open Heart** - You can come to me exactly as you are, not even as your best self. We are all trying to get through life the best way we know how, and none of us have a manual.
 
 ## What I Expect of Managers
 
