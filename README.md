@@ -6,22 +6,14 @@ Samuel Beckett wrote in Westward Ho, _Ever tried. Ever failed. No matter. Try ag
 
 I embrace failure because the only way to avoid failure is to do nothing, which means never trying, that leads into never succeeding. Failure is just another opportunity to learn and stay humbled.
 
-**Favorite Quote:**
-
-“Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid” ~ Unknown
-
-**My Favorite Fortune Cookie Fortune:**
-
-The mightiest oak in the forest was just a little nut that stood its ground
-
 ## What You Can Expect From Me
 
-- **Honesty** - Never ask a question if you aren’t expecting an honest answer in a very raw form.
-- **Transparency** - I don’t play games and I don’t hide things. You should never have to read between the lines of what I’m saying.
-- **Encouragement** - I want to see you grow and be fearless
-- **Open Door, Open mind, Open heart** - You can come to me exactly as you are, not even as your best self. We are all trying to get through life the best way we know how, and none of us have a manual
+- **Life/Work Balance** - Understanding that this a job. I will always give priorirty to family, and while there might be late nights, or work on the weekend, that shouldn't be the expectation.
+- **Honesty** - I will be honest, but I might be guarded at the same time. When you are employee, you are at a power imbalance with a manager, and that needs to be understood.
+- **Encouragement** - I want to see you as a manager grow and be fearless, and I want you empowering me as an employee.
+- **Open Door, Open mind, Open heart** - You can come to me exactly as you are, not even as your best self. We are all trying to get through life the best way we know how, and none of us have a manual.
 
-## What I Expect of You
+## What I Expect of Managers
 
 - Know what you don’t know
 - Be open, honest, direct
@@ -46,19 +38,24 @@ The mightiest oak in the forest was just a little nut that stood its ground
 - Accountability
 - Being Open and Vulnerable
 
-## What Makes Me Crabby
+## What Puts Me on Edge
 
-- **Techsplaining** - Being presumptuous about what I don’t know. You can trust that I know what I don’t know and therefore will request an explanation
-- **Lack of gratitude** - I live by the philosophy that if you expect nothing, you will be grateful for everything
-- **Deflecting** not taking accountability
-- **Shaming and blaming**
+- **Vague Goals** - If there is a goal or deliverable, be explicit in what you want, and then everyone can be accountable for a deliverable.
+- **Bike Shedding** - We aren't doing rocket surgery, let's build and ship cool things fast. Fix it in post.
 - People whose **opinions drown out everyone else**, who don't agree to disagree, and make others feel marginalized
 - When I'm **out of coffee**
+- **Meetings that prioritize EST**. No, I don't want to take a meeting at 7am. For the same reason you don't want to take one at 8pm on a Friday.
 
-**How will you know I’m crabby?**
+**How will you know I’m on edge?**
 
-I’ll be direct about it, and/or avoid the trigger
+[I might disappear into the weeds](https://media.giphy.com/media/4pMX5rJ4PYAEM/giphy.gif). Prolly a good time to reach out.
 
-**How can you help me when I’m crabby?**
+**How can you help me when I’m on edge?**
 
-I often treat grumpiness with humor and sarcasm, indulge me!
+I often treat grumpiness with humor and sarcasm, indulge me! Empathy and kindness are good helps too. Tell me to take a walk and get some fresh air too is good for my mental stability.
+
+## Remote Worker
+
+Condé Nast is a huge company that has people in the ranks from all over the country. One thing that needs to be understood as we seek to become a truly global company is that not all people will be gathered around the same watercooler during the day. Conversations that are held in person, or in private channels where decisions are made need to be surfaced to all parties. If this means sending an email, or getting on a Zoom, make that happen.
+
+Further, just because something is said in Slack, or in a commit message, that doesn't mean that it will be read/understood/executed. When in doubt, look for facetime with people. Zoom is fantastic, use it.
