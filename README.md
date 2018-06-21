@@ -1,8 +1,8 @@
-# GeGe Pincin - As Your Manager
+# Jake Spurlock - As Your Employee
 
 ### _Sometimes you have to get it wrong, to get it right._
 
-Thomas Edison once said, _I have not failed. I've just found 10,000 ways that won't work._
+Samuel Beckett wrote in Westward Ho, _Ever tried. Ever failed. No matter. Try again. Fail again. Fail better._
 
 I embrace failure because the only way to avoid failure is to do nothing, which means never trying, that leads into never succeeding. Failure is just another opportunity to learn and stay humbled.
 
