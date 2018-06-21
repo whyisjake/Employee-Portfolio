@@ -27,6 +27,7 @@ I embrace failure because the only way to avoid failure is to do nothing, which 
 
 ## I Value
 
+- Taking risks
 - Empathy
 - Initiative
 - Humor and positivity
