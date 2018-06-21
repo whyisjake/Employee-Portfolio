@@ -2,7 +2,7 @@
 
 Samuel Beckett wrote in Westward Ho, _Ever tried. Ever failed. No matter. Try again. Fail again. Fail better._
 
-I embrace failure because the only way to avoid failure is to do nothing, which means never trying, that leads into never succeeding. Failure is just another opportunity to learn and stay humbled.
+I embrace failure because the only way to avoid failure is to do nothing, which means never trying, that leads into never succeeding. Failure is just another opportunity to learn and [stay humble](https://www.youtube.com/watch?v=tvTRZJ-4EyI).
 
 ## What You Can Expect From Me
 
