@@ -27,6 +27,7 @@ I embrace failure because the only way to avoid failure is to do nothing, which 
 
 ## I Value
 
+- Stoicism
 - Taking risks
 - Empathy
 - Initiative
